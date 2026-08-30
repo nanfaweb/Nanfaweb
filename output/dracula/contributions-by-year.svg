@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#282a36" stroke="#282a36" stroke-opacity="1.00"/>
+  <text x="20" y="30" font-size="15" font-weight="600" fill="#ff79c6">Contributions by Year</text>
+  <line x1="35" y1="45" x2="35" y2="155" stroke="#6272a4"/>
+  <line x1="31" y1="155" x2="35" y2="155" stroke="#6272a4"/>
+  <text x="29" y="158" font-size="10" fill="#6272a4" text-anchor="end">0</text>
+  <line x1="31" y1="128" x2="35" y2="128" stroke="#6272a4"/>
+  <text x="29" y="131" font-size="10" fill="#6272a4" text-anchor="end">50</text>
+  <line x1="31" y1="100" x2="35" y2="100" stroke="#6272a4"/>
+  <text x="29" y="103" font-size="10" fill="#6272a4" text-anchor="end">100</text>
+  <line x1="31" y1="73" x2="35" y2="73" stroke="#6272a4"/>
+  <text x="29" y="76" font-size="10" fill="#6272a4" text-anchor="end">150</text>
+  <line x1="31" y1="45" x2="35" y2="45" stroke="#6272a4"/>
+  <text x="29" y="48" font-size="10" fill="#6272a4" text-anchor="end">200</text>
+  <line x1="35" y1="155" x2="325" y2="155" stroke="#6272a4"/>
+  <rect x="35.00" y="154.45" width="95.33" height="0.55" rx="2" fill="#7963a1"><title>2024 — 1 commits</title></rect>
+  <text x="82.67" y="169" font-size="10" fill="#6272a4" text-anchor="middle">2024</text>
+  <rect x="132.33" y="108.25" width="95.33" height="46.75" rx="2" fill="#7963a1"><title>2025 — 85 commits</title></rect>
+  <text x="180.00" y="169" font-size="10" fill="#6272a4" text-anchor="middle">2025</text>
+  <rect x="229.67" y="63.70" width="95.33" height="91.30" rx="2" fill="#bd93f9"><title>2026 — 166 commits</title></rect>
+  <text x="277.33" y="169" font-size="10" fill="#6272a4" text-anchor="middle">2026</text>
+</svg>
