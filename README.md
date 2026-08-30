@@ -140,12 +140,12 @@ Android cinema booking app with Firebase auth, SQLite snacks, seat selection, an
 
 <div align="center">
 
-<img height="165" src="./output/dracula/stats.svg" alt="GitHub stats" />
-<img height="165" src="./output/dracula/streak.svg" alt="GitHub streak" />
+<img height="165" src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/stats.svg" alt="GitHub stats" />
+<img height="165" src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/streak.svg" alt="GitHub streak" />
 
-<img src="./output/dracula/contributions.svg" alt="Contribution graph" />
+<img src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/repos-per-language.svg" alt="Repos per language" />
 
-<img src="./output/dracula/repos-per-language.svg" alt="Repos per language" />
+<img src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/most-commit-language.svg" alt="Most commit language" />
 
 </div>
 
@@ -153,7 +153,7 @@ Android cinema booking app with Firebase auth, SQLite snacks, seat selection, an
 
 <div align="center">
 
-<img src="./assets/snake.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/assets/snake.svg" alt="Contribution snake" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d1117&height=100&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
 
