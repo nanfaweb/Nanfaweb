@@ -140,12 +140,16 @@ Android cinema booking app with Firebase auth, SQLite snacks, seat selection, an
 
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/stats.svg" alt="GitHub stats" />
-<img height="165" src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/streak.svg" alt="GitHub streak" />
-
-<img src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/repos-per-language.svg" alt="Repos per language" />
-
-<img src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/most-commit-language.svg" alt="Most commit language" />
+<table>
+<tr>
+<td><img width="340" height="200" src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/stats.svg" alt="GitHub stats" /></td>
+<td><img width="340" height="200" src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/streak.svg" alt="GitHub streak" /></td>
+</tr>
+<tr>
+<td><img width="340" height="200" src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/repos-per-language.svg" alt="Repos per language" /></td>
+<td><img width="340" height="200" src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/output/dracula/most-commit-language.svg" alt="Most commit language" /></td>
+</tr>
+</table>
 
 </div>
 
