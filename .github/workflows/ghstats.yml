@@ -1,0 +1,22 @@
+name: ghstats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: tiennm99/ghstats@v1
+        with:
+          user: nanfaweb
+          themes: dracula
+          tz: Asia/Karachi
+          commit_changes: "true"

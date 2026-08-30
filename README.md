@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Afnan%20Asif&fontSize=48&fontColor=ffffff&animation=twinkling" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=140&section=header&text=Afnan%20Asif&fontSize=48&fontColor=ffffff&animation=twinkling" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Software+Engineer;AI+%26+NLP+%C2%B7+Real-time+Systems;FAST-NUCES+%C2%B7+Graduating+2027" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=C084FC&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Software+Engineer;AI+%26+NLP+%C2%B7+Real-time+Systems;FAST-NUCES+%C2%B7+Graduating+2027" alt="Typing animation" />
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nanfafolio.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://nanfafolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nanfafolio.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://nanfafolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afnanasifc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afnanasifc)
 [![Email](https://img.shields.io/badge/Email-afnanasifch@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afnanasifch@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nanfaweb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanfaweb)
@@ -23,6 +23,16 @@ I build production systems — from AI-powered NLP models to real-time mobile ap
 
 ---
 
+### Experience
+
+| Role | Highlights |
+| --- | --- |
+| **Full Stack Intern** · Zynvex Solutions · Jun–Jul 2026 | Built [CampSpark](https://github.com/nanfaweb/CampSpark) solo — auth, feed, real-time messaging, and RAG chatbot (LangChain + Gemini). Sub-500ms API, sub-2s feed load, sub-5s chatbot responses. |
+| **Web Dev Freelancer** · Valsent · Dec 2025–Jan 2026 | Exam prep SaaS serving **200+ concurrent users** with **99.9% uptime** during peak load. |
+| **Web Dev Freelancer** · 123Applied · May–Jul 2025 | Secure document SaaS for **100+ users**; automated status pipelines cut admin overhead by **~30%**. |
+
+---
+
 ### Tech Stack
 
 <div align="center">
@@ -33,13 +43,22 @@ I build production systems — from AI-powered NLP models to real-time mobile ap
 
 <br />
 
+**Languages** · Python · JavaScript · TypeScript · Java · C++
+
 **Frontend** · Next.js · React · React Native · TypeScript
 
-**Backend** · Node.js · Express · Python · Java
+**Backend** · Node.js · Express · FastAPI · Python · Java · REST APIs
 
-**Data & AI** · SQL · MSSQL · PyTorch · NLP · Gemini
+**Data & AI** · PostgreSQL · SQL · MSSQL · PyTorch · NLP · LangChain · Gemini
 
-**Tools** · Firebase · Supabase · Stripe · Docker
+**Tools** · Firebase · Supabase · Stripe · Docker · GitHub Actions · CI/CD
+
+---
+
+### Certifications & Leadership
+
+- **freeCodeCamp** — Back End Development and APIs (Jun 2025)
+- **SOFTEC 2025** — Infrastructure Officer, FAST-NUCES · 2,500+ participants
 
 ---
 
@@ -50,7 +69,7 @@ I build production systems — from AI-powered NLP models to real-time mobile ap
 <td width="50%" valign="top">
 
 #### [CELESTIA](https://github.com/nanfaweb/CELESTIA)
-Full-stack space education platform with query optimization across **7,000+ data points**.
+Full-stack space education platform with **40% query performance improvement** across **7,000+ data points**.
 
 `Next.js` `Node.js` `MSSQL`
 
@@ -68,7 +87,7 @@ NLP model for DNA sequence classification with up to **87% accuracy**.
 <td width="50%" valign="top">
 
 #### [CampSpark](https://github.com/nanfaweb/CampSpark)
-Social platform with AI companion, messaging, and **local RAG** via FastAPI + Chroma + Gemini.
+Built during Zynvex internship — social platform with AI companion, messaging, and **local RAG** via FastAPI + Chroma + Gemini.
 
 `Next.js` `Supabase` `Gemini`
 
@@ -121,10 +140,12 @@ Android cinema booking app with Firebase auth, SQLite snacks, seat selection, an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nanfaweb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=nanfaweb&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="165" src="./output/dracula/stats.svg" alt="GitHub stats" />
+<img height="165" src="./output/dracula/streak.svg" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanfaweb&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+<img src="./output/dracula/contributions.svg" alt="Contribution graph" />
+
+<img src="./output/dracula/repos-per-language.svg" alt="Repos per language" />
 
 </div>
 
@@ -132,8 +153,8 @@ Android cinema booking app with Firebase auth, SQLite snacks, seat selection, an
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<img src="./assets/snake.svg" alt="Contribution snake" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d1117&height=100&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
 
 </div>
