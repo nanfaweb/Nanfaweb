@@ -7,10 +7,10 @@ from pathlib import Path
 USERNAME = "nanfaweb"
 OUT = Path(__file__).resolve().parents[1] / "assets" / "snake.svg"
 
-# GitHub contribution colors (dark theme, purple accent snake)
-COLORS = ["#161b22", "#1e1033", "#3b0764", "#6b21a8", "#a855f7"]
-SNAKE_COLOR = "#c084fc"
-BG = "#0d1117"
+# GitHub contribution colors (orange and white theme)
+COLORS = ["#fff7ed", "#fed7aa", "#fdba74", "#fb923c", "#ea580c"]
+SNAKE_COLOR = "#c2410c"
+BG = "#ffffff"
 CELL = 11
 PAD = 16
 

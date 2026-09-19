@@ -16,9 +16,13 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: tiennm99/ghstats@v1
+      - name: Generate orange stats card
+        run: |
+          mkdir -p output/orange
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nanfaweb&theme=default&bg_color=ffffff&title_color=ea580c&text_color=1f2937&icon_color=f97316&border_color=fdba74" \
+            -o output/orange/stats.svg
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          user: nanfaweb
-          themes: dracula
-          tz: Asia/Karachi
-          commit_changes: "true"
+          commit_message: "chore: update orange stats card"
+          file_pattern: output/orange/stats.svg
