@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ea580c&height=140&section=header&text=Afnan%20Asif&fontSize=48&fontColor=1f2937&animation=twinkling" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=EA580C&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Software+Engineer;AI+%26+NLP+%C2%B7+Real-time+Systems;FAST-NUCES+%C2%B7+Graduating+2027" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=EA580C&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Software+Engineer;Computer+Science+Final-Year+Student" alt="Typing animation" />
 
 <br />
 
@@ -17,9 +17,9 @@
 
 ### About
 
-Full-stack developer based in **Lahore, Pakistan**. BS Computer Science at **FAST-NUCES**, graduating June 2027.
+**Software Engineer** and **Full-Stack Developer** based in **Lahore, Pakistan**. Computer Science final-year student.
 
-I build production systems from AI-powered NLP models to real-time mobile apps. I care about performance, reliability, and measurable outcomes.
+I build production systems with a focus on performance, reliability, and measurable outcomes.
 
 ---
 
