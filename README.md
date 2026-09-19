@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ea580c&height=140&section=header&text=Afnan%20Asif&fontSize=48&fontColor=1f2937&animation=twinkling" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ea580c&height=140&section=header&text=Afnan%20Asif&fontSize=48&fontColor=ffffff&animation=twinkling" alt="Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=EA580C&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Software+Engineer;Computer+Science+Final-Year+Student" alt="Typing animation" />
 
@@ -75,6 +75,6 @@ I build production systems with a focus on performance, reliability, and measura
 
 <img src="https://raw.githubusercontent.com/nanfaweb/Nanfaweb/main/assets/snake.svg" alt="Contribution snake" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ea580c,100:ffffff&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=1f2937&animation=twinkling" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ea580c,100:ffffff&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" />
 
 </div>
