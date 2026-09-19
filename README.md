@@ -17,7 +17,7 @@
 
 ### About
 
-**Software Engineer** and **Full-Stack Developer** based in **Lahore, Pakistan**. Computer Science final-year student.
+**Software Engineer** and **Full-Stack Developer** based in **Lahore, Pakistan** and **Abu Dhabi, UAE**. Computer Science final-year student.
 
 I build production systems with a focus on performance, reliability, and measurable outcomes.
 
